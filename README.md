@@ -1,5 +1,5 @@
 <h1 align="center">Hey wassup👋, I'm Dhruvraj</h1>
-<h3 align="center">I am a FUL-STACK Developer </h3>
+<h3 align="center">I am a FULL-STACK Developer </h3>
 <p align="center"  width="100%">
 <img alt="coding" width="33%" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif?w=700&h=525&auto=format">
 </p>
