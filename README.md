@@ -32,7 +32,7 @@
 
 
  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark">
-    <img  alt="Dhruvrajsinh's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dhruvrajsinh-7?cardType=level(default)&theme=dark" />
+    <img  alt="Dhruvrajsinh's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/dhruvrajsinh-7?cardType=github&theme=dark" />
   </a>
 
 
