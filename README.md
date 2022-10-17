@@ -1,7 +1,7 @@
 <h1 align="center">Hey wassup👋, I'm Dhruvraj</h1>
 <h3 align="center">I am a FULL-STACK Developer </h3>
 <p align="center"  width="100%">
-<img alt="coding" width="33%" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif?w=700&h=525&auto=format">
+<img alt="coding" width="50%" src="https://imgs.search.brave.com/vaRNSGDBATPrV0Rfe7tD5_b5DQGzXtcXDK1EeV-1PxU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLmdp/ZmVyLmNvbS9RRHlE/LmdpZg.gif">
 </p>
 
 
