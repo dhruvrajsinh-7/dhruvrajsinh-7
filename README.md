@@ -12,7 +12,7 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **dhruvsss007@@gmail.com**
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvrajsinh-7&bg_color=000000&color=6ebc2f&line=781212&point=42a956&area=true&hide_border=false)](https://github.com/dhruvrajsinh-7/github-readme-activity-graph)
+[![dhruvrajsinh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvrajsinh-7&bg_color=000000&color=6ebc2f&line=781212&point=42a956&area=true&hide_border=false)](https://github.com/dhruvrajsinh-7/github-readme-activity-graph)
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
