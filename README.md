@@ -9,13 +9,13 @@
 <img alt="coding" width="50%" src="https://imgs.search.brave.com/vaRNSGDBATPrV0Rfe7tD5_b5DQGzXtcXDK1EeV-1PxU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLmdp/ZmVyLmNvbS9RRHlE/LmdpZg.gif">
 </p>
 <section align="center">
-  <b>🔭 I’m currently working on online-food portal website like swiggy</b>
+  <b>🔭 I’m currently working on multiple mega projects like online-food portal website like swiggy</b>
 
-  <b>🌱 I’m currently learning Node Js , Express Js , MongoDB , Reactjs in ADVANCE</b>
+  <b>🌱 I’m currently learning Node Js , Express Js , MongoDB , Reactjs in ADVANCE with nextjs and typescript</b>
 
   <b>💬 Ask me about MERN STACK</b>
 
- <b>💯Someone says that Great things comes with better practice and sacrifices</b>
+ <b>Hope is the most precious things to do always keep it in your mind</b>
 
 <!-- <h3 align="left">Connect With Me:</h3>
 <p align="left">
