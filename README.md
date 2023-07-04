@@ -68,6 +68,7 @@
 <p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvrajsinh-7&show_icons=true&locale=en&layout=compact" alt="dhruvrajsinh-7" /></p>
 <p>&nbsp;</p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvrajsinh-7&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
 
 
  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark">
