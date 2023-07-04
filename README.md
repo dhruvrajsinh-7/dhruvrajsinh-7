@@ -34,6 +34,7 @@
   <a href="https://reactjs.org/">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
   <a href="https://redux.js.org/">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
   <a href="https://mui.com/">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
 </a>  
   
   <a href="https://www.figma.com/">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
@@ -65,7 +66,7 @@
    src="https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=Leetcode&logoColor=black"></img></a>
 
 </p>
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvrajsinh-7&show_icons=true&locale=en&layout=compact" alt="dhruvrajsinh-7" /></p>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvrajsinh-7&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhruvrajsinh-7" /></p>
 <p>&nbsp;</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvrajsinh-7&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
