@@ -6,7 +6,7 @@
 </div>
 
 <p align="center"  width="100%">
-<img alt="coding" width="50%" src="https://imgs.search.brave.com/vaRNSGDBATPrV0Rfe7tD5_b5DQGzXtcXDK1EeV-1PxU/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLmdp/ZmVyLmNvbS9RRHlE/LmdpZg.gif">
+<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="top" />
 </p>
 <section align="center">
   <b>🔭 I’m currently working on multiple mega projects like online-food portal website like swiggy</b>
