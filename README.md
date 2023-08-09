@@ -9,13 +9,15 @@
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="top" />
 </p>
 <section align="center">
-  <b>🔭 I’m currently working on multiple mega projects like online-food portal website like swiggy</b>
+  <b>🔭 I’m currently working on multiple mega projects like an online-food portal website like Swiggy </b>
 
-  <b>🌱 I’m currently learning Node Js , Express Js , MongoDB , Reactjs in ADVANCE with nextjs and typescript</b>
+  <b>🌱 I’m currently learning Node Js, Express Js, MongoDB, and Reactjs in ADVANCE with nextjs and typescript</b>
 
   <b>💬 Ask me about MERN STACK</b>
 
- <b>Hope is the most precious things to do always keep it in your mind</b>
+  <b>Anime is a gem that's why I watch it </b>
+
+ <b>Hope is the most precious thing to do always keep it in your mind</b>
 
 <!-- <h3 align="left">Connect With Me:</h3>
 <p align="left">
@@ -25,7 +27,7 @@
 <a href="https://leetcode.com/Dhruvraj_05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Dhruvraj_05" height="30" width="40" /></a>
 </p> -->
 #### ⚡ Technologies
-  <a href="">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+  <a href=">![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a>
   <a href="https://www.typescriptlang.org/">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
   <a href="https://nodejs.org/en/">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
