@@ -33,16 +33,17 @@
   <a href="https://nodejs.org/en/">![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 </a>
   <a href="https://expressjs.com"> ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)</a>
+   <a href="https://laravel.com/docs/10.x/readme">![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)</a>
+   <a href="https://vuejs.org/">![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</a>
   <a href="https://reactjs.org/">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
   <a href="https://redux.js.org/">![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</a>
   <a href="https://mui.com/">![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
 </a>  
-  
   <a href="https://www.figma.com/">![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a>
   <a href="https://nextjs.org">![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</a>
   <a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)</a>
   <a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
+    <a href="https://getbootstrap.com/">![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white))</a>
   <a href="https://git-scm.com/">![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 </a>
   <a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</a>
@@ -66,7 +67,9 @@
   <a target="_blank"
    href="https://leetcode.com/Dhruvraj_05/"><img
    src="https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=Leetcode&logoColor=black"></img></a>
-
+  <a target="_blank"
+   href="https://medium.com/@dhruvsss007"><img
+   src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a>
 </p>
 <p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvrajsinh-7&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhruvrajsinh-7" /></p>
 <p>&nbsp;</p>
