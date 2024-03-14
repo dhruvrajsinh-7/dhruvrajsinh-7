@@ -4,25 +4,27 @@
   <p align="left'>
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=6353FF&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;Learning+Untill+I+Achieve+MyDream;A+Technophile+and+A+Computer+Geek;Always+Learning+New+Things"></a>
   </p>
-<p align="right">
-  <img width='50%' src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="top" />
-</p>
+
+  <img height="50%"  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="top" />
 </div>
 
+> [!NOTE]
+> 📩  Inquire About MERN STACK / LVMP STACK / T3 STACK / NEXTJS / Software Development
 
-<section align="left">
-  <b>🔭 I’m currently working on multiple mega projects like an online-food portal website like Swiggy </b>
+> [!TIP]
+> 😇 Hope is the most precious thing may be the best things of all time so always keep it in your mind
 
-  <b>🌱 I’m currently learning Node Js, Express Js, MongoDB, and Reactjs in ADVANCE with nextjs and typescript</b>
+> [!IMPORTANT]
+> 🌱 Embarking on Advanced Learning Journey with Vue3, LARAVEL-10, MySQL by Crafting Diverse Projects 
 
-  <b>💬 Ask me about MERN STACK</b>
+> [!TIP]
+> 🫡 Anime: A Precious Gem Worth Exploring<
 
-  <b>Anime is a gem that's why I watch it </b>
+> [!NOTE]
+> 🔭 Currently Delving Deep into FULL-STACK Dev
 
-  <b>Hope is the most precious thing to do always keep it in your mind</b>
-</section>
 
-<h3 align="left">⚡ Technologies</h3>
+<h3 align="left">⚡ Technologies STUFF</h3>
 
 <p align="left">
   <a href="https://www.cplus.com"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
@@ -44,7 +46,6 @@
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></a>
   <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <h3 align="left">Connect with me via:</h3>
@@ -55,13 +56,16 @@
   <a target="_blank" href="https://twitter.com/GohilDh34395600"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a target="_blank" href="https://leetcode.com/Dhruvraj_05/"><img src="https://img.shields.io/badge/Leetcode-1DA1F2?style=for-the-badge&logo=Leetcode&logoColor=black"></a>
   <a target="_blank" href="https://medium.com/@dhruvsss007"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <div class="flex">
   <img width='33%' height='50%' src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvrajsinh-7&theme=dark&show_icons=true&locale=en&layout=compact" alt="dhruvrajsinh-7">
+</div>
+
   <img width='33%' height='50%' src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvrajsinh-7&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw">
   <img width='33%' height='50%' src="https://github-readme-stats.vercel.app/api?username=dhruvrajsinh-7&show_icons=true&theme=dark">
-</div>
+
 
 
 
